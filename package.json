@@ -1,0 +1,17 @@
+{
+  "name": "basicmusicapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	"deploy": "node . > logfile 2> errfile"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express.js": "^1.0.0",
+    "path": "^0.12.7"
+  }
+}
