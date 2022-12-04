@@ -11,3 +11,7 @@ npm i
 npm update
 npm run deploy
 ```
+
+
+# How it looks like:
+![Result](https://github.com/pendragons-code/Basic-Music-App/blob/main/sample.png?raw=true)
